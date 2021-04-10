@@ -5,4 +5,4 @@ commit2
 
 commit 3
 
-Jai Shri Ram !!! This was modified locally
+this line was modified manually during conflict resolution
